@@ -10,8 +10,3 @@ The projects I am currently working on are:
 
     A full recode of my plugin OmegaVision (Almost ready to be released)
     A Udemy Unreal Engine C++ Course that I have been enjoying online
-
-Languages I have experience (and like to consider myself proficient in):
-
-    Java
-    C++
