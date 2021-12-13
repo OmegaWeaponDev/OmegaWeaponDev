@@ -9,4 +9,4 @@ If you are wanting a custom plugin developed for you, or needing some support fo
 The projects I am currently working on are:
 
     A full recode of my plugin JoinPrivileges
-    A Udemy Unreal Engine C++ Course that I have been enjoying online
+    A Udemy Unreal Engine C++ Course for Game Development
